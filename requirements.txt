@@ -25,6 +25,7 @@ tqdm
 
 selenium
 webdriver-manager
+beautifulsoup4
 requests
 lxml
 html5lib
